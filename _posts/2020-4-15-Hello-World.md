@@ -12,4 +12,4 @@ Project is based on Storj V2, and multiple changes in that decentralized storage
 
 I just write this down to let me know there was something I've done, at least something has to be done.
 
-Figth on! 
+Fight on! 
