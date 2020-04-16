@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+攻撃こそ最大の防御
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Work and live in SF Bay Area, right now, only have hope with me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+waylon_keepshh (find me in Keybase)
