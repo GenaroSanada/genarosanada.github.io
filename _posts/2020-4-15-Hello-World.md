@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Guess this is an old-fashioned way
+layout: post
+title: Guess this is an old-fashioned way
 ---
 If you still consider encrypted decentralized storage as the cool thing, please help us to build.
 ##夢をつかんだやつより、夢を追っているやつの方が時に力を発揮する##
